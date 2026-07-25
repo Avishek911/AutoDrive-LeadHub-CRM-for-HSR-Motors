@@ -1,0 +1,6 @@
+{
+  "name": "HSR Motors LeadHub CRM",
+  "description": "Comprehensive lead management and business analytics desktop application for HSR Motors car dealership team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
